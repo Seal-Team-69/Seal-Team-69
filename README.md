@@ -23,7 +23,7 @@ Achivements:
 - Used super secret exploits.
 
 ### Documentory
-![Link to video](https://www.tiktok.com/@st69.sniper/video/6969664500442123526)
+[Link to video](https://www.tiktok.com/@st69.sniper/video/6969664500442123526)
 
 ## About Operation HTML
 This operation was created to get new recruits.
