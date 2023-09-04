@@ -29,6 +29,7 @@ Achivements:
 ## About Operation HTML
 This operation was created to get new recruits.
 Methods: Subdomain Takeover, Request Forgery
+
 Achivements:
 - Over 300 applications were recieved to join the force.
 - Numerous NameMC profiles had their social media changed.
