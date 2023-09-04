@@ -17,6 +17,7 @@ Seal Team 69 is a special forces team that was founded by Alfredo
 ## About Operation JSON
 This operation was created in order to combat the skids that have entered the community.
 Methods: CLASSIFIED
+
 Achivements:
 - Skids quit
 - Over 100 names were sniped.
